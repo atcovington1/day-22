@@ -1,0 +1,13 @@
+span {
+	color:red;
+	font-weight:bold;
+}
+
+table {
+	boarder:1px solid grey ;
+}
+div{
+	width:49%;
+	display: inline-block
+	text-align: center;
+}
